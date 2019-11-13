@@ -1,0 +1,9 @@
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\bin\Release\SaAddressApi.Net.dll
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\bin\Release\SaAddressApi.Net.pdb
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\bin\Release\Mono.HttpUtility.dll
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\bin\Release\Newtonsoft.Json.dll
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\bin\Release\Newtonsoft.Json.xml
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\obj\Release\SaAddressApi.Net.csproj.CoreCompileInputs.cache
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\obj\Release\SaAddressApi.Net.csproj.CopyComplete
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\obj\Release\SaAddressApi.Net.dll
+C:\Users\AbuDawood-Dev\Desktop\MVC_Prjct_ TeachAdultsApp\1- Project\TchAdltsGit\SaAddressApi.Net\obj\Release\SaAddressApi.Net.pdb
