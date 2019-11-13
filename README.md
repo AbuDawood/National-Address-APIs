@@ -24,3 +24,10 @@ Use an instance of SaAddressServices() to begin consuming the API services
 
         var saApiReq = new SaAddressServices();
          respons = await saApiReq.PoiFreeTextAsync("searched-point-of-interest", 1);
+         
+
+
+ ## TODO
+ 
+ - Adding delay request timespan
+ - set the classes and methods summary
