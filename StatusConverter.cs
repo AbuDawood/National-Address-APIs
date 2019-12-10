@@ -67,7 +67,7 @@ namespace SaAddressApi.Net
 
                 var objLatLng = new ObjLatLng
                 {
-                    Id = Int32.Parse(strArr[0]),
+                    Id = strArr[0],
                     Lng = double.Parse(strArr[1]),
                     Lat = double.Parse(strArr[2]),
                 };

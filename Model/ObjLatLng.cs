@@ -8,7 +8,7 @@ namespace SaAddressApi.Net.Model
 {
     public class ObjLatLng
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
 
         public double Lat { get; set; }
 
